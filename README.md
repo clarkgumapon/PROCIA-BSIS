@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Babe Coffee Shop - Cashiering System
 
 A modern and feature-rich coffee shop management application with an intuitive user interface for efficient order processing, inventory management, and financial reporting.
@@ -236,3 +237,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# PROCIA-BSIS
+>>>>>>> c388038dee43613e501370f9bf2a09c745964df1
